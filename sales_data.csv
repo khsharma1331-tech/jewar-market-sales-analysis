@@ -1,0 +1,51 @@
+\OrderID,Product,Category,Quantity,Price,Region,Date,Total_Sales
+1,Keyboard,Electronics,5,1970,Jewar,2024-03-12,7450
+2,Bag,Accessories,9,4669,Jewar,2024-03-15,25683
+3,Saree,Clothing,8,4919,Delhi,2024-05-29,39352
+4,Bag,Accessories,2,3891,Ahmedabad,2024-02-07,7782
+5,Mouse,Electronics,5,660,Noida,2024-01-22,3300
+6,Kurta,Clothing,9,2784,Noida,2024-06-18,25056
+7,Sandals,Footwear,3,1631,Noida,2024-02-20,4893
+8,Keyboard,Electronics,5,1840,Jewar,2024-05-11,9200
+9,Shoes,Footwear,2,4541,Noida,2024-02-22,9082
+10,Mouse,Electronics,4,591,Noida,2024-06-20,2364
+11,T-Shirt,Clothing,3,805,Noida,2024-02-19,2415
+12,T-Shirt,Clothing,4,601,Noida,2024-02-23,2404
+13,Shirt,Clothing,4,2500,Greater Noida,2024-02-13,10000
+14,Mouse,Electronics,10,769,Delhi,2024-01-15,7690
+15,T-Shirt,Clothing,7,851,Jewar,2024-02-09,5957
+16,Bag,Accessories,2,2378,Ahmedabad,2024-06-02,4756
+17,Jacket,Clothing,9,3680,Ahmedabad,2024-03-05,33120
+18,Keyboard,Electronics,9,2367,Noida,2024-05-15,21303
+19,Saree,Clothing,3,4640,Delhi,2024-06-11,13920
+20,Laptop,Electronics,5,58561,Noida,2024-02-10,292805
+21,Keyboard,Electronics,9,1779,Noida,2024-02-17,16011
+22,Rice Bag,Grocery,7,1373,Noida,2024-04-08,9611
+23,Kurta,Clothing,8,1925,Bijnor,2024-04-10,15400
+24,Slippers,Footwear,3,504,Delhi,2024-05-21,1512
+25,Keyboard,Electronics,9,1206,Noida,2024-02-11,10854
+26,Jacket,Clothing,3,3363,Delhi,2024-02-21,10089
+27,Headphone,Electronics,5,3478,Noida,2024-06-19,17390
+28,Headphone,Electronics,7,2922,Delhi,2024-01-28,20454
+29,Mouse,Electronics,10,1056,Jewar,2024-05-13,10560
+30,Kurta,Clothing,4,2554,Noida,2024-04-01,10216
+31,Keyboard,Electronics,1,2408,Jewar,2024-04-30,2408
+32,Wallet,Accessories,9,1509,Noida,2024-05-16,13581
+33,Tablet,Electronics,1,33545,Noida,2024-02-28,33545
+34,Sunglasses,Accessories,8,2256,Noida,2024-03-02,18048
+35,Boots,Footwear,10,3563,Jewar,2024-02-08,35630
+36,Mouse,Electronics,3,612,Jewar,2024-03-21,1836
+37,Boots,Footwear,2,3641,Noida,2024-03-27,7282
+38,Tablet,Electronics,1,26528,Jewar,2024-05-09,26528
+39,Bag,Accessories,10,3195,Delhi,2024-03-08,31950
+40,Rice Bag,Grocery,8,922,Jewar,2024-02-07,7376
+41,Tablet,Electronics,4,27777,Delhi,2024-05-18,111108
+42,Sandals,Footwear,1,1947,Noida,2024-04-02,1947
+43,Mobile,Electronics,4,20811,Delhi,2024-05-26,83244
+44,Mobile,Electronics,3,29411,Delhi,2024-02-21,88233
+45,Jeans,Clothing,1,2050,Greater Noida,2024-05-08,2050
+46,Saree,Clothing,9,4520,Jewar,2024-06-07,40680
+47,Shirt,Clothing,3,1262,Delhi,2024-03-30,3786
+48,Sandals,Footwear,9,1680,Jewar,2024-02-17,15120
+49,Kurta,Clothing,5,2260,Bijnor,2024-01-09,11300
+50,Jeans,Clothing,3,2315,Ahmedabad,2024-05-27,6945
